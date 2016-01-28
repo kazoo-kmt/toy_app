@@ -1,0 +1,15 @@
+current directory: /Users/mocchango/Projects/railstutorial-twitter-clone-kazoo-kmt/workspace/toy_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20160127-3045-16r9l0b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mocchango/Projects/railstutorial-twitter-clone-kazoo-kmt/workspace/toy_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/mocchango/Projects/railstutorial-twitter-clone-kazoo-kmt/workspace/toy_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/mocchango/Projects/railstutorial-twitter-clone-kazoo-kmt/workspace/toy_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20160127-3045-1j6xga4
